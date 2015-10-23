@@ -1,0 +1,65 @@
+a{
+    color: white;
+}
+
+div#container {
+    float: left;
+    width: 200px;
+}
+
+div#title {
+    border: solid;
+    border-color: black;
+    width: 200px;
+    float: left;
+    background-color: cadetblue;
+}
+
+div#menu {
+    margin-top: 17px;
+    border: solid;
+    border-color: black;
+    width: 200px;
+    float: left;
+    background-color: green;
+}
+
+div#site {
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: left;
+    width: 500px;
+    border: solid;
+    border-color: black;
+    background-color: lightpink;
+}
+
+div#site_title {
+    text-align: center;
+    width: 500px;
+    float: left;
+    color: black;
+}
+
+div#site_article {
+    width: 500px;
+    float: left;
+    color: black;
+    padding-bottom: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+div#login {
+    float: left;
+    width: 350px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+body {
+    background-color: orange;
+}
